@@ -1,0 +1,6 @@
+[movies]
+user=data607
+password=Data607!
+database=movies
+host=localhost
+port=3306
